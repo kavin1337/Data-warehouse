@@ -68,7 +68,6 @@ This project includes:
  🛠️ Technologies Used
 
 - SQL Server
-- T-SQL
 - SQL Server Management Studio (SSMS)
 - Microsoft Excel
 - CSV Files
